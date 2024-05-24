@@ -1,0 +1,22 @@
+Container_middle
+{
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.left
+{
+    width: 500px;
+    background-color:#EEF1F6; 
+    margin-left: 500px;
+    padding-top: ;
+    margin-top: 0px;
+    
+     
+}
+.Container_middle_para
+{
+    display: flex;
+    align-items:;
+    justify-content: center;
+}
